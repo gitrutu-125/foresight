@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+*.pdf
+slide-*.jpg
+.ipynb_checkpoints/
